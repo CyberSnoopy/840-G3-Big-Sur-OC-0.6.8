@@ -11,3 +11,14 @@ swapped network card (DW1560) with extra kexts :
 * BrcmPatchRAM3
 
 No kext for SD Card reader or Fingerprint sensor (I don't use them)
+
+## Working components
+
+| Component | Component model | State |
+| --- | --- | --- |
+| Wifi | DW1560 | Working (also Airdrop) |
+| Bluetooth | DW1560 | Working |
+| Graphics | Intel HD Graphics 520 | Working |
+| Sound | Bang & Olufsen | Working|
+| Battery | / | Working |
+| Trackpad | Synaptics | Workingwith gestures |

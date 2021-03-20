@@ -12,7 +12,7 @@ swapped network card (DW1560) with extra kexts :
 
 No kext for SD Card reader or Fingerprint sensor (I don't use them)
 
-## Working components
+### Working components
 
 | Component | Component model | State |
 | --- | --- | --- |

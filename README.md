@@ -12,7 +12,7 @@ swapped network card (DW1560) with extra kexts :
 
 No kext for SD Card reader or Fingerprint sensor (I don't use them)
 
-### Working components
+### Working
 
 | Component | Component model | State |
 | --- | --- | --- |
@@ -20,5 +20,13 @@ No kext for SD Card reader or Fingerprint sensor (I don't use them)
 | Bluetooth | DW1560 | Working |
 | Graphics | Intel HD Graphics 520 | Working |
 | Sound | Bang & Olufsen | Working|
-| Battery | / | Working |
 | Trackpad | Synaptics | Workingwith gestures |
+| Battery | / | Working |
+
+### Not Working
+I don't use these, so I didn't invest in the kexts
+
+| Component | State |
+| --- | --- |
+| SD Card Reader | Not Working |
+| Fingerprint Sensor | Not Working |
